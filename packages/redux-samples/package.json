@@ -1,6 +1,6 @@
 {
   "name": "@kevin-k/redux-samples",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A collection of redux examples, for educational purposes.",
   "author": "Kevin Kelly <kevin@kevinjkelly.net>",
   "homepage": "https://github.com/Kevin-K/web-sandbox/packages/redux-samples#readme",
