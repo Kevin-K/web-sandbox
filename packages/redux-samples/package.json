@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A collection of redux examples, for educational purposes.",
   "author": "Kevin Kelly <kevin@kevinjkelly.net>",
-  "homepage": "https://github.com/Kevin-K/web-sandbox/packages/redux-samples#readme",
+  "homepage": "https://github.com/Kevin-K/web-sandbox/tree/master/packages/redux-samples",
   "license": "MIT",
   "main": "index.js",
   "files": [
