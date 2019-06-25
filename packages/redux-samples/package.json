@@ -1,0 +1,24 @@
+{
+  "name": "@kevin-k/redux-samples",
+  "version": "1.0.0",
+  "description": "A collection of redux examples, for educational purposes.",
+  "author": "Kevin Kelly <kevin@kevinjkelly.net>",
+  "homepage": "https://github.com/Kevin-K/web-sandbox/packages/redux-samples#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kevin-K/web-sandbox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kevin-K/web-sandbox/issues"
+  },
+  "keywords": [],
+  "dependencies": {
+    "esm": "^3.2.25",
+    "redux": "^4.0.1"
+  }
+}
