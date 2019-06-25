@@ -1,12 +1,14 @@
 {
   "name": "@kevin-k/redux-samples",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A collection of redux examples, for educational purposes.",
   "author": "Kevin Kelly <kevin@kevinjkelly.net>",
   "homepage": "https://github.com/Kevin-K/web-sandbox/tree/master/packages/redux-samples",
   "license": "MIT",
   "main": "src/00-basic-counter/index.js",
-  "files": ["src"],
+  "files": [
+    "src"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kevin-K/web-sandbox.git"
