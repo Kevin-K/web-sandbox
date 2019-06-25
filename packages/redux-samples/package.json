@@ -5,10 +5,8 @@
   "author": "Kevin Kelly <kevin@kevinjkelly.net>",
   "homepage": "https://github.com/Kevin-K/web-sandbox/tree/master/packages/redux-samples",
   "license": "MIT",
-  "main": "index.js",
-  "files": [
-    "index.js"
-  ],
+  "main": "src/00-basic-counter/index.js",
+  "files": ["src"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kevin-K/web-sandbox.git"

@@ -6,4 +6,4 @@ An introductory example to the workflow of redux.
 ```
 npm install
 ```
-2. Run using `node -r esm <directory>`. The esm library loaded through -r allows us to use the import/export functionality of ES6 within node.
+2. Run using `node -r esm src/<directory>`. The esm library loaded through -r allows us to use the import/export functionality of ES6 within node.
